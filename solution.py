@@ -3,8 +3,8 @@ from operator import ne
 question_list = {
     1:"Welcome to the game! Think or a desian pattern and answer these following yes/no questions. Ready?",
     2:"Does it provide the object creation mechanism that enhance the flexibilities of the existing code?",
-    3:"Is it responsible for how one class communicates with others",
-    4:"Does it explain how to assemole objecis and classes ino a larger structure and simplifies the structure genuino the rolatinnshins?",
+    3:"Is it responsible for how one class communicates with others?",
+    4:"Does it explain how to assemble objects and classes into a larger structure and simplifies structure by identifying the relationships?",
     5:"Does it ensure you have at most one instance of a class in your application?",
     6:"Does it provide a mechanism to the context to change its behavior?",
     7:"Does it attach additional behavior to an object dynamically at run-time?",
